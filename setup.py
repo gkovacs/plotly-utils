@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="plotly-utils",
-    version="0.0.1",
+    version="0.0.2",
     author="Geza Kovacs",
     author_email="noreply@gkovacs.com",
     description="High level API for plotting via Plotly in Jupyter Notebook",
