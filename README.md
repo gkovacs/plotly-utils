@@ -1,6 +1,6 @@
 # plot_utils
 
-High level API for plotting via Plotly
+High level API for plotting via Plotly in Jupyter Notebook
 
 ## Install
 

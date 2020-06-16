@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Geza Kovacs",
     author_email="noreply@gkovacs.com",
-    description="High level API for plotting via Plotly",
+    description="High level API for plotting via Plotly in Jupyter Notebook",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/gkovacs/python-plot-utils",
