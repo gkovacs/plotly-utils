@@ -1,17 +1,17 @@
-# plot-utils
+# plotly-utils
 
 High level API for plotting via Plotly in Jupyter Notebook
 
 ## Install
 
 ```bash
-pip install plot-utils
+pip install plotly-utils
 ```
 
 ## Using
 
 ```python
-import plot_utils
+import plotly_utils
 ```
 
 ## Author
