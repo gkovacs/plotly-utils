@@ -16,6 +16,7 @@ setuptools.setup(
     install_requires=[
         'statsmodels>=0.10.1',
         'plotly>=4.1.1',
+        'numpy>=1.17.0',
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
